@@ -1,5 +1,5 @@
-# CocktailBot
-This repository contains the code for setting up and moving a 3Dx pioneer robot in a 'cocktail environment'. It also contains the Arduino and Python code for configuring the connection between an Arduino button system and a remote computer connected to the robot. To use this code, you must have ROS 1, Arduino IDE, and Python 2. 
+# Iterative Robot Waiter Algorithm Design: Service Expectations and Social Factors
+This repository contains the code for setting up and moving a 3Dx pioneer robot in a 'restaurant environment'. It also contains the Arduino and Python code for configuring the connection between an Arduino button system and a remote computer connected to the robot. To use this code, you must have ROS 1, Arduino IDE, and Python 2. 
 Each trial consists of six scenarios with different pairings of initiation form and scenario context. The order of these scenarios in each trial was randomized to ensure little to no bias.
 
 <b> SETTING UP THE ROBOT:</b>
